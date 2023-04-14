@@ -145,5 +145,5 @@ const DescriptText = styled.Text`
 
 const SubDescriptText = styled.Text`
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 301;
 `;
